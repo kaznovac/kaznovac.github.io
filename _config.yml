@@ -41,5 +41,3 @@ kramdown:
 
 plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
-
-theme: jekyll-theme-minimal
